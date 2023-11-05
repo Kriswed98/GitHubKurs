@@ -1,0 +1,302 @@
+[
+  {
+    "catID": "salg",
+    "description": "Holdbart og stilfullt, disse skoene kombinerer komfort og ytelse for padelspillere som verdsetter kvalitet.",
+    "id": 2,
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/6442f16d-e10a-4b3e-afa1-4614d282d0fb/renew-ride-3-road-running-shoes-6RP4QJ.png",
+    "img2": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/6442f16d-e10a-4b3e-afa1-4614d282d0fb/renew-ride-3-road-running-shoes-6RP4QJ.png",
+    "price": 499,
+    "size": ["S", "M", "L"],
+    "title": "COURT Master Pro"
+},
+{
+    "catID": "salg",
+    "description": "Designet for allsidighet og holdbarhet, passer disse skoene perfekt for padelspillere som ønsker ytelse uten å tømme lommeboken.",
+    "id": 3,
+    "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f9645056-9dc0-4b24-9006-57bf348e8f47/alphafly-2-road-racing-shoes-jmPrD5.png",
+    "img2": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f9645056-9dc0-4b24-9006-57bf348e8f47/alphafly-2-road-racing-shoes-jmPrD5.png",
+    "price": 415,
+    "size": ["S", "M", "L"],
+    "title": "SLICE Court Advantage"
+},
+{
+    "catID": "salg",
+    "description": "Disse skoene er laget for den taktiske spilleren, som gir eksepsjonell grep og stabilitet på banen til en overkommelig pris.",
+    "id": 4,
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/69d1d811-a3e0-4bef-92dc-bf601e66bd1c/free-rn-nn-road-running-shoes-4T85gm.png",
+    "img2": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/69d1d811-a3e0-4bef-92dc-bf601e66bd1c/free-rn-nn-road-running-shoes-4T85gm.png",
+    "price": 350,
+    "size": ["S", "M", "L"],
+    "title": "SPIN Padel Precision"
+},
+{
+    "catID": "salg",
+    "description": "Med fokus på komfort og fleksibilitet, disse rimelige skoene støtter din bevegelse på banen uten å ofre kvalitet.",
+    "id": 5,
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/2c3ee806-14df-4021-a3a2-c7a3241e7428/free-run-5-road-running-shoes-m8L9mr.png",
+    "img2": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/2c3ee806-14df-4021-a3a2-c7a3241e7428/free-run-5-road-running-shoes-m8L9mr.png",
+    "price": 289,
+    "size": ["S", "M", "L"],
+    "title": "RALLY Flex Control"
+},
+{
+    "catID": "salg",
+    "description": "Optimaliser spillet med disse økonomiske skoene som gir deg kontroll og rask respons på hurtige bevegelser under padelspill.",
+    "id": 6,
+    "img": "https://static.nike.com/a/images/t_default/493508cb-7aec-4e71-a383-8b33118ae383/react-infinity-3-mens-road-running-shoes-X4PKW0.png",
+    "img2": "https://static.nike.com/a/images/t_default/493508cb-7aec-4e71-a383-8b33118ae383/react-infinity-3-mens-road-running-shoes-X4PKW0.png",
+    "price": 375,
+    "size": ["S", "M", "L"],
+    "title": "ACE Serve Agility"
+},
+{
+      "catID": "padel",
+      "description": "Lett og med optimal balanse, dette racketet er ideelt for nybegynnere som ønsker å forbedre spillet sitt.",
+      "id": 11,
+      "title": "Control Master 300",
+      "price": 760,
+      "size": ["One Size"],
+      "img": "https://www.tradeinn.com/f/13745/137450212/head-flash-padel-racket.jpg",
+      "img2": "https://www.tradeinn.com/f/13745/137450212/head-flash-padel-racket.jpg"
+  },
+  {
+      "catID": "padel",
+      "description": "Designet for mellomspillere, gir dette racketet en god blanding av kraft og kontroll på banen.",
+      "id": 12,
+      "title": "Power Strike 500",
+      "price": 850,
+      "size": ["One Size"],
+      "img": "https://assets.adidas.com/images/w_940,f_auto,q_auto/bb842cd4619e41998ea9af66009e82c5_9366/GC6247_01_standard.jpg",
+      "img2": "https://assets.adidas.com/images/w_940,f_auto,q_auto/bb842cd4619e41998ea9af66009e82c5_9366/GC6247_01_standard.jpg"
+  },
+  {
+      "catID": "padel",
+      "description": "Avansert racket med høy ytelse, ideelt for erfarne spillere som søker presisjon og kraft.",
+      "id": 13,
+      "title": "Pro Spin 700",
+      "price": 940,
+      "size": ["One Size"],
+      "img": "https://padelshop.ae/cdn/shop/products/x-one-blue-padel-tennis-racket-main_1024x1024.webp?v=1668233703",
+      "img2": "https://padelshop.ae/cdn/shop/products/x-one-blue-padel-tennis-racket-main_1024x1024.webp?v=1668233703"
+  },
+  {
+      "catID": "padel",
+      "description": "Dette er en allround racket som tilbyr en fantastisk følelse, med et mykt grep for komfort.",
+      "id": 14,
+      "title": "Fusion Comfort 200",
+      "price": 620,
+      "size": ["One Size"],
+      "img": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/23E7K5/a3c5094b8219444499dade37d2542ab3.jpg/f/osaka-vision-control-padel-racket-pink.jpg",
+      "img2": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/23E7K5/a3c5094b8219444499dade37d2542ab3.jpg/f/osaka-vision-control-padel-racket-pink.jpg"
+  },
+  {
+      "catID": "padel",
+      "description": "Denne racketen har en unik form for å forbedre spillernes slagstyrke uten å ofre kontroll.",
+      "id": 15,
+      "title": "Strike Edge 450",
+      "price": 780,
+      "size": ["One Size"],
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHE42GfG_bd3k9JlyxwPqmRFDCBnjknNOvjw&usqp=CAU",
+      "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHE42GfG_bd3k9JlyxwPqmRFDCBnjknNOvjw&usqp=CAU"
+  },{
+    "catID": "import",
+    "description": "Eksklusive, importerte sneakers med en elegant design og overlegen komfort, perfekt for motebevisste individer.",
+    "id": 21,
+    "title": "Lux Runners 88",
+    "price": 1200,
+    "size": ["39", "40", "41", "42", "43"],
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAX91Y76mrUc-rxXLudfzSO00_3KIzyk9HpWUy8RfoJx31VkNnP1I-tq2HV8zPqjTSEeI&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAX91Y76mrUc-rxXLudfzSO00_3KIzyk9HpWUy8RfoJx31VkNnP1I-tq2HV8zPqjTSEeI&usqp=CAU"
+},
+{
+    "catID": "import",
+    "description": "Importert håndverk, denne padel racketen gir enestående ytelse for den seriøse spilleren.",
+    "id": 22,
+    "title": "Elite Pro Racket",
+    "price": 1500,
+    "size": ["One Size"],
+    "img": "https://racketacademy.co.nz/wp-content/uploads/2023/04/radical-team-.jpeg",
+    "img2": "https://racketacademy.co.nz/wp-content/uploads/2023/04/radical-team-.jpeg"
+},
+{
+    "catID": "import",
+    "description": "Fra de japanske alper, nyter disse håndlagde formene rykte for varighet og stil.",
+    "id": 23,
+    "title": "IS THAT A SUPRA??",
+    "price": 3000000,
+    "size": ["40", "41", "42", "43", "44"],
+    "img": "https://ronbrooks.b-cdn.net/wp-content/uploads/2023/06/toyota-supra-mk4.png",
+    "img2": "https://ronbrooks.b-cdn.net/wp-content/uploads/2023/06/toyota-supra-mk4.png"
+},
+{
+    "catID": "import",
+    "description": "Direkte fra Frankrike, denne luksuriøse parfymen byr på en forførende duft som varer hele dagen.",
+    "id": 24,
+    "title": "Paris Essence 05",
+    "price": 430,
+    "size": ["50ml", "100ml"],
+    "img": "https://contents.mediadecathlon.com/p2486866/k$7825fb6766acd3bb63c747e8e618d0ce/kids-23quote-tennis-racket-tr130-green.jpg?format=auto&quality=40&f=800x800",
+    "img2": "https://contents.mediadecathlon.com/p2486866/k$7825fb6766acd3bb63c747e8e618d0ce/kids-23quote-tennis-racket-tr130-green.jpg?format=auto&quality=40&f=800x800"
+},
+{
+    "catID": "import",
+    "description": "Med detaljer i japansk stil, disse kunstneriske te-settene representerer det beste innen importert keramikk.",
+    "id": 25,
+    "title": "Zen Tea Collection",
+    "price": 340,
+    "size": ["One Size"],
+    "img": "https://pongfinity.store/cdn/shop/files/sensei-table-tennis-racket-close-up-grey.jpg?v=1690804160",
+    "img2": "https://pongfinity.store/cdn/shop/files/sensei-table-tennis-racket-close-up-grey.jpg?v=1690804160"
+},
+{
+  "catID": "klær",
+  "description": "Moderne og stilfull bomullsgenser som passer perfekt til høstkjøligheten.",
+  "id": 31,
+  "title": "Autumn Cotton Sweater",
+  "price": 299,
+  "size": ["S", "M", "L", "XL"],
+  "img": "https://www.happydayinthehouse.no/shop123varer/bilder/image_20649.jpg",
+  "img2": "https://www.happydayinthehouse.no/shop123varer/bilder/image_20649.jpg"
+},
+{
+  "catID": "klær",
+  "description": "Lette og komfortable joggebukser, ideelle for trening eller en avslappende dag hjemme.",
+  "id": 32,
+  "title": "RelaxFit Joggers",
+  "price": 250,
+  "size": ["S", "M", "L", "XL"],
+  "img": "https://cdn.sparkjop.no/media/catalog/product/cache/db12b821a15c22821e90fcd4f557572e/2/1/216742_216742_gaamelert_27.jpg",
+  "img2": "https://cdn.sparkjop.no/media/catalog/product/cache/db12b821a15c22821e90fcd4f557572e/2/1/216742_216742_gaamelert_27.jpg"
+},
+{
+  "catID": "klær",
+  "description": "Denne stilige vindjakken gir deg beskyttelse mot elementene samtidig som den holder deg moteriktig.",
+  "id": 33,
+  "title": "Urban Windbreaker",
+  "price": 499,
+  "size": ["M", "L", "XL"],
+  "img": "https://www.e-outdoor.co.uk/pi/Berghaus/image-594499.JPG?w=800&h=800",
+  "img2": "https://www.e-outdoor.co.uk/pi/Berghaus/image-594499.JPG?w=800&h=800"
+},
+{
+  "catID": "klær",
+  "description": "Behagelige og varme ullsokker, perfekte for kalde vinternetter.",
+  "id": 34,
+  "title": "Cozy Wool Socks",
+  "price": 99,
+  "size": ["One Size"],
+  "img": "https://www.obs.no/globalassets/productimages/643816_7025180683266_1.jpg?ref=9E060E3112",
+  "img2": "https://www.obs.no/globalassets/productimages/643816_7025180683266_1.jpg?ref=9E060E3112"
+},
+{
+  "catID": "klær",
+  "description": "Elegant og formell skjorte, laget av premium bomull, passer utmerket til kontoret eller formelle anledninger.",
+  "id": 35,
+  "title": "Classic Formal Shirt",
+  "price": 349,
+  "size": ["S", "M", "L", "XL"],
+  "img": "https://cdn11.bigcommerce.com/s-8a17r5u7/images/stencil/original/products/4074/19203/compressport-training-shirt__85378.1630926822.jpg",
+  "img2": "https://cdn11.bigcommerce.com/s-8a17r5u7/images/stencil/original/products/4074/19203/compressport-training-shirt__85378.1630926822.jpg"
+},
+{
+  "catID": "sko",
+  "description": "Holdbart og stilfullt, disse skoene kombinerer komfort og ytelse for padelspillere som verdsetter kvalitet.",
+  "id": 52,
+  "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/6442f16d-e10a-4b3e-afa1-4614d282d0fb/renew-ride-3-road-running-shoes-6RP4QJ.png",
+  "img2": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/6442f16d-e10a-4b3e-afa1-4614d282d0fb/renew-ride-3-road-running-shoes-6RP4QJ.png",
+  "price": 499,
+  "size": ["S", "M", "L"],
+  "title": "COURT Master Pro"
+},
+{
+  "catID": "sko",
+  "description": "Designet for allsidighet og holdbarhet, passer disse skoene perfekt for padelspillere som ønsker ytelse uten å tømme lommeboken.",
+  "id": 53,
+  "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f9645056-9dc0-4b24-9006-57bf348e8f47/alphafly-2-road-racing-shoes-jmPrD5.png",
+  "img2": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f9645056-9dc0-4b24-9006-57bf348e8f47/alphafly-2-road-racing-shoes-jmPrD5.png",
+  "price": 415,
+  "size": ["S", "M", "L"],
+  "title": "SLICE Court Advantage"
+},
+{
+  "catID": "sko",
+  "description": "Disse skoene er laget for den taktiske spilleren, som gir eksepsjonell grep og stabilitet på banen til en overkommelig pris.",
+  "id": 54,
+  "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/69d1d811-a3e0-4bef-92dc-bf601e66bd1c/free-rn-nn-road-running-shoes-4T85gm.png",
+  "img2": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/69d1d811-a3e0-4bef-92dc-bf601e66bd1c/free-rn-nn-road-running-shoes-4T85gm.png",
+  "price": 350,
+  "size": ["S", "M", "L"],
+  "title": "SPIN Padel Precision"
+},
+{
+  "catID": "sko",
+  "description": "Med fokus på komfort og fleksibilitet, disse rimelige skoene støtter din bevegelse på banen uten å ofre kvalitet.",
+  "id": 55,
+  "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/2c3ee806-14df-4021-a3a2-c7a3241e7428/free-run-5-road-running-shoes-m8L9mr.png",
+  "img2": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/2c3ee806-14df-4021-a3a2-c7a3241e7428/free-run-5-road-running-shoes-m8L9mr.png",
+  "price": 289,
+  "size": ["S", "M", "L"],
+  "title": "RALLY Flex Control"
+},
+{
+  "catID": "sko",
+  "description": "Optimaliser spillet med disse økonomiske skoene som gir deg kontroll og rask respons på hurtige bevegelser under padelspill.",
+  "id": 56,
+  "img": "https://static.nike.com/a/images/t_default/493508cb-7aec-4e71-a383-8b33118ae383/react-infinity-3-mens-road-running-shoes-X4PKW0.png",
+  "img2": "https://static.nike.com/a/images/t_default/493508cb-7aec-4e71-a383-8b33118ae383/react-infinity-3-mens-road-running-shoes-X4PKW0.png",
+  "price": 375,
+  "size": ["S", "M", "L"],
+  "title": "ACE Serve Agility"
+},
+{
+  "catID": "tilbehør",
+  "description": "Elegante solbriller med UV-beskyttelse, ideelle for sommerdager.",
+  "id": 41,
+  "title": "SunnyDay Solbriller",
+  "price": 199,
+  "size": ["One Size"],
+  "img": "https://www.raskebriller.no/cdn/shop/products/J4A4917.jpg?v=1655289350",
+  "img2": "https://www.raskebriller.no/cdn/shop/products/J4A4917.jpg?v=1655289350"
+},
+{
+  "catID": "tilbehør",
+  "description": "Praktisk og romslig ryggsekk for hverdagsbruk, med flere lommer for organisering.",
+  "id": 42,
+  "title": "Urban Explorer Ryggsekk",
+  "price": 350,
+  "size": ["One Size"],
+  "img": "https://www.trackerwebshop.no/users/rk_mystore_no/images/temp_mystore_1520325671_09016_04.jpg",
+  "img2": "https://www.trackerwebshop.no/users/rk_mystore_no/images/temp_mystore_1520325671_09016_04.jpg"
+},
+{
+  "catID": "tilbehør",
+  "description": "Eksklusiv lærbelte som legger et sofistikert preg på ethvert antrekk.",
+  "id": 43,
+  "title": "Classic Lærbelte",
+  "price": 299,
+  "size": ["S", "M", "L"],
+  "img": "https://www.strengthshopusa.com/cdn/shop/products/Leverbelt-riotlever-12.jpg?v=1612815753",
+  "img2": "https://www.strengthshopusa.com/cdn/shop/products/Leverbelt-riotlever-12.jpg?v=1612815753"
+},
+{
+  "catID": "tilbehør",
+  "description": "Stilige treningshansker for å beskytte hendene under vektløfting og treningsøkter.",
+  "id": 44,
+  "title": "GripMaster Treningshansker",
+  "price": 150,
+  "size": ["S", "M", "L"],
+  "img": "https://productimages.biltema.com/v1/image/imagebyfilename/14-282_xxl_1.jpg",
+  "img2": "https://productimages.biltema.com/v1/image/imagebyfilename/14-282_xxl_1.jpg"
+},
+{
+  "catID": "tilbehør",
+  "description": "Vannavstøtende løpebelte med plass til telefon og nøkler, perfekt for løpeturen.",
+  "id": 45,
+  "title": "RunReady Løpebelte",
+  "price": 120,
+  "size": ["One Size"],
+  "img": "https://cdn.thewirecutter.com/wp-content/media/2021/09/runningbelts-2048px-0S1A0250-2x1-1.jpg?auto=webp&quality=75&crop=2:1&width=1024",
+  "img2": "https://cdn.thewirecutter.com/wp-content/media/2021/09/runningbelts-2048px-0S1A0250-2x1-1.jpg?auto=webp&quality=75&crop=2:1&width=1024"
+}
+]
+  
